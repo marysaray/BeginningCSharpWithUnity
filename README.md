@@ -1,4 +1,4 @@
-# BeginningCSharpWithUnity
+# Beginning C# with Unity
 @YouTube Tutorial introduction to Unity platform and scripting with C#. 
 
 https://www.youtube.com/watch?v=lgUIx75fJ_E&list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX&index=1
